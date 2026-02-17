@@ -4,6 +4,7 @@
     - [Cálculo de costos y beneficios](#cálculo-de-costos-y-beneficios)
 - [Definición de objetivos y entregables del proyecto](#definición-de-objetivos-y-entregables-del-proyecto)
     - [Cómo definir objetivos SMART](#cómo-definir-objetivos-smart)
+    - [Introducción a los OKRs](#introducción-a-los-okrs)
 
 ## ¿Por qué es esencial la iniciación de proyectos?
 La iniciación es la primera fase del ciclo de vida del proyecto, donde se identifican problemas u oportunidades que requieren atención. Es responsabilidad del gerente de proyecto **definir los objetivos, recursos y detalles clave del proyecto en colaboración con los interesados**.
